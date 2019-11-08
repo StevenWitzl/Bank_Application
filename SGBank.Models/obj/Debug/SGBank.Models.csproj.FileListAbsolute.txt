@@ -1,0 +1,12 @@
+C:\Users\Steven\source\repos\SGBank\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\Steven\source\repos\SGBank\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\Steven\source\repos\SGBank\SGBank.Models\obj\Debug\SGBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\SGBank\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\Steven\source\repos\SGBank\SGBank.Models\obj\Debug\SGBank.Models.pdb
+C:\Users\Steven\source\repos\SGBank\SGBank.Models\obj\Debug\SGBank.Models.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\Bank_Application\SGBank\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\Steven\Desktop\Bank_Application\SGBank\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\Steven\Desktop\Bank_Application\SGBank\SGBank.Models\obj\Debug\SGBank.Models.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\Bank_Application\SGBank\SGBank.Models\obj\Debug\SGBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\Bank_Application\SGBank\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\Steven\Desktop\Bank_Application\SGBank\SGBank.Models\obj\Debug\SGBank.Models.pdb
